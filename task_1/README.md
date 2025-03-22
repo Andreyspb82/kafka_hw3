@@ -90,7 +90,7 @@ http://localhost:8083/connectors/postgres-source/config | jq
 ```
 curl http://localhost:8083/connectors/postgres-source/status | jq
 ```
-#### Должен вернутся ответ слудующего вида:
+#### Должен вернуться ответ слудующего вида:
 ```
 {
   "name": "postgres-source",

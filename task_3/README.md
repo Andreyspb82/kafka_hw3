@@ -79,7 +79,7 @@ curl http://localhost:8083/connectors/pg-connector/status | jq
 }
 
 ```
-
+### 2) Результат задания:
 #### Логи при создании коннектора:
 ```
 [2025-03-22 18:00:42,248] INFO Creating connector pg-connector of type io.debezium.connector.postgresql.PostgresConnector (org.apache.kafka.connect.runtime.Worker)

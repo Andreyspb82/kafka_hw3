@@ -114,3 +114,4 @@ curl http://localhost:8083/connectors/prometheus-connector/status | jq
 {__name__="TotalMemory"}
 ```
 #### Результат запроса:
+![total](TotalMemory.png)
